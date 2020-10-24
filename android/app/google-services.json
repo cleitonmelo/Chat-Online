@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "160225042921",
+    "firebase_url": "https://chatfutter-48bfd.firebaseio.com",
+    "project_id": "chatfutter-48bfd",
+    "storage_bucket": "chatfutter-48bfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160225042921:android:d116c6707b62e0fdb9eb78",
+        "android_client_info": {
+          "package_name": "br.com.melobento.chat_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160225042921-6l3326774ttqj1otqvf4trph0rat2jl1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.melobento.chat_online",
+            "certificate_hash": "a033c9fd5ff2fbc9b10615f5f3c5518031ad2d5f"
+          }
+        },
+        {
+          "client_id": "160225042921-o64994b8sr4ndft7lo4vm07etscuh3su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr0jez2oln8brNVxnhj-uSBmngRJIuh6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160225042921-o64994b8sr4ndft7lo4vm07etscuh3su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
